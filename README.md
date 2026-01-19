@@ -8,7 +8,11 @@ Features
 - Avatar upload, file attachments (stored in /uploads)
 - Typing indicator, delivered/seen statuses, reactions
 - Mobile-first responsive UI (Tailwind)
-
+Run through node_modules already present if any issue doing write npm install and npm run and inside .env.example your mongodb atlas url *
+<img width="428" height="485" alt="3" src="https://github.com/user-attachments/assets/d3d6cd7e-bc66-4ba9-840b-b8f083cc9d6b" />
+<img width="852" height="735" alt="2" src="https://github.com/user-attachments/assets/196dd945-a751-46c2-aa20-678150cbe3a5" />
+<img width="861" height="543" alt="1" src="https://github.com/user-attachments/assets/116250f4-3cf1-4c75-8ce8-3a45a360e56b" />
+<img width="607" height="550" alt="4" src="https://github.com/user-attachments/assets/93295ded-44a0-4a20-b080-c3a72a8db7c6" />
 Quick start
 1. Install:
    - npm install
